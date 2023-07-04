@@ -4,7 +4,7 @@ Hi! My name is Igor Moura
 .NET Web Developer
 ------------------
 
-Since I started to learn programming years ago, I've discovered a new passion in life and became a technology enthusiastic. I love to learn everything there is to know about technology, and most of all, to discuss with people about it with a cup of coffee (or tea).
+I like to learn everything there is to know about technology, and discuss with people about it with a cup of coffee (or tea).
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [igor.moura254@hotmail.com](mailto:igor.moura254@hotmail.com)
