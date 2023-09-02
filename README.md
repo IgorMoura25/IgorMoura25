@@ -41,7 +41,7 @@ I like to learn everything there is to know about technology, and discuss with p
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/IgorMoura25/RentComputer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorMoura25&repo=RentComputer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/IgorMoura25/azure-techbox" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorMoura25&repo=azure-techbox&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/IgorMoura25/azure-technews" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorMoura25&repo=azure-technews&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/IgorMoura25/azure-techbox" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IgorMoura25&repo=azure-techbox&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br />
 
