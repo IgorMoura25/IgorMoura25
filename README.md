@@ -2,6 +2,7 @@
 
 [![Location](https://img.shields.io/badge/Location-S%C3%A3o_Paulo%2C_Brasil-003366?style=flat-square)](https://www.google.com/maps?q=São+Bernardo+do+Campo,+SP)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-batista-de-moura/)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:igor.moura254@hotmail.com)
 
+![Banner](linkedin-banner)
 
 I’m passionate about coding and love diving into discussions about tech, games, and system design. Let’s chat and geek out together!
 
